@@ -55,7 +55,32 @@ img {
 
 /* Styling for the individual topic cards rounded edges background color and a drop shadow */
 .topic-card{
-    background-color: rgb(123, 26, 26);
+    background-color: rgb(88, 71, 71);
+    color: white;
+    padding: 1em;
+    border-radius: 0.5em;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Styling for the topic card titles */
+.topic-card-text{
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+    /* center align text */
+    text-align: center;
+}
+
+
+/* Styling for a footer section to take a bit of spcae at the bottom of the page */
+.footer{
+    background-color: rgb(173, 237, 13);
+    color: white;
+    text-align: right;
+    padding: 3em 3em;
+}
+/* Styling for the individual topic cards rounded edges background color and a drop shadow */
+.topic-card{
+    background-color: rgb(132, 15, 15);
     color: white;
     padding: 1em;
     border-radius: 0.5em;
