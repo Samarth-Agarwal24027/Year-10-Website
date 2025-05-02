@@ -23,7 +23,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: rgb(255, 255, 255);
     text-align: center;
     position: relative;
 }
@@ -39,7 +39,7 @@ img {
     color: rgba('255, 255, 255, 0');
     font-size: 1em;
     padding: 0.1em 3em;
-    background-color: rgb(71, 71, 71);
+    background-color: rgba(71, 71, 71, 0.6);
 }
 
 /* Three column grid with a nice big gap */
@@ -55,7 +55,7 @@ img {
 
 /* Styling for the individual topic cards rounded edges background color and a drop shadow */
 .topic-card{
-    background-color: rgb(88, 71, 71);
+    background-color: rgb(218, 43, 43);
     color: white;
     padding: 1em;
     border-radius: 0.5em;
@@ -80,7 +80,7 @@ img {
 }
 /* Styling for the individual topic cards rounded edges background color and a drop shadow */
 .topic-card{
-    background-color: rgb(132, 15, 15);
+    background-color: rgb(15, 79, 132);
     color: white;
     padding: 1em;
     border-radius: 0.5em;
@@ -98,7 +98,7 @@ img {
 
 /* Styling for a footer section to take a bit of spcae at the bottom of the page */
 .footer{
-    background-color: rgb(88, 88, 88);
+    background-color: rgb(201, 65, 65);
     color: white;
     text-align: right;
     padding: 3em 3em;
