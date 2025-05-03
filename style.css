@@ -73,14 +73,14 @@ img {
 
 /* Styling for a footer section to take a bit of spcae at the bottom of the page */
 .footer{
-    background-color: rgb(173, 237, 13);
+    background-color: rgb(31, 15, 255);
     color: white;
     text-align: right;
     padding: 3em 3em;
 }
 /* Styling for the individual topic cards rounded edges background color and a drop shadow */
 .topic-card{
-    background-color: rgb(15, 79, 132);
+    background-color: rgb(31, 15, 255);
     color: white;
     padding: 1em;
     border-radius: 0.5em;
