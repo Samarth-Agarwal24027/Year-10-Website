@@ -39,7 +39,7 @@ img {
     color: rgba('255, 255, 255, 0');
     font-size: 1em;
     padding: 0.1em 3em;
-    background-color: rgba(71, 71, 71, 0.6);
+    background-color: rgb(71, 71, 71);
 }
 
 /* Three column grid with a nice big gap */
