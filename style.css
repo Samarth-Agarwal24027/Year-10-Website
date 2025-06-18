@@ -64,7 +64,7 @@ img {
 
 /* Styling for the topic card titles */
 .topic-card-text{
-    color: rgb(255, 255, 255);
+    color: rgb(16, 232, 110);
     font-size: 1.5em;
     margin-bottom: 0.5em;
     /* center align text */
@@ -75,7 +75,7 @@ img {
 /* Styling for a footer section to take a bit of spcae at the bottom of the page */
 .footer{
     background-color: rgb(123, 15, 255);
-    color: rgb(234, 241, 235);
+    color: rgb(241, 239, 234);
     text-align: right;
     padding: 3em 3em;
 }
