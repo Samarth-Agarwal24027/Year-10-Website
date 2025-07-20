@@ -59,7 +59,7 @@ img {
     color: white;
     padding: 1em;
     border-radius: 0.5em;
-    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.559);
+    box-shadow: 10px 10px 10px rgba(8, 212, 243, 0.559);
 }
 
 /* Styling for the topic card titles */
@@ -74,7 +74,7 @@ img {
 
 /* Styling for a footer section to take a bit of spcae at the bottom of the page */
 .footer{
-    background-color: rgb(123, 15, 255);
+    background-color: rgb(15, 255, 215);
     color: rgb(241, 239, 234);
     text-align: right;
     padding: 3em 3em;
